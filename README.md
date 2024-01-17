@@ -1,2 +1,2 @@
-# DUMP-Data-Mining-Practice
+# DUMP-DMing
 Data Mining Practice
